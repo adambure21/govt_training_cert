@@ -1,1 +1,1 @@
-# This Repo contains all traning programs,webinars, modules performed since May 2020 onwards
+# This Repo contains all training programs,webinars, modules performed since May 2020 onwards
